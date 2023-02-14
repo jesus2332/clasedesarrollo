@@ -1,1 +1,2 @@
-asdadadadsada
+
+void main(adasdadadsadsaa){}
